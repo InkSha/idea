@@ -132,3 +132,6 @@ dist
 # C#
 */obj
 */bin/Debug/net*
+
+# Rust
+*/target
