@@ -1,0 +1,19 @@
+#app {
+  display: flex;
+  flex-flow: nowrap row;
+  justify-content: start;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 2rem;
+}
+
+#aside,
+#article {
+  display: flex;
+  flex-flow: nowrap column;
+  justify-content: start;
+  align-items: start;
+  width: 30%;
+  height: 100%;
+}
